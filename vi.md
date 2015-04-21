@@ -19,9 +19,9 @@ edition
 ===
 cut line: `dd` *(nano: `crtl-k`)*  
 copy line: `yy` 
-paste after: `p`, before: `P` *(nano: `crtl-u`(*    
-delete one character on right (aka `suppr`): `x` or `suppr`  
-delete one character on left (aka `backspace`): `X` *(nano: `backspace`)*  
+paste after: `p`, before: `P` *(nano: `crtl-u`)*    
+delete one character on right *(aka `suppr`)*: `x` or `suppr`  
+delete one character on left *(aka `backspace`)*: `X` *(nano: `backspace`)*  
 
 misc
 ===
