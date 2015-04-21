@@ -26,3 +26,7 @@ delete one character on left *(aka `backspace`)*: `X` *(nano: `backspace`)*
 misc
 ===
 undo: `u`, redo: `crtl+r`  
+
+more
+===
+![commands](http://i1-news.softpedia-static.com/images/news2/Beginner-039-s-Vi-Editor-Guide-2.png)
