@@ -11,10 +11,11 @@ end of line: **$**
 
 edition
 ===
-delete line: **dd**  
+cut line: **dd**  
 copy line: **yy**  
-paste after: **p**  
-delete one character: **x** or **suppr**  
+paste after: **p**, before: **P**    
+delete one character on right (like *suppr* key): **x** or **suppr**  
+delete one character on left (like *backspace* key): **X**  
 
 misc
 ===
