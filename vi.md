@@ -17,7 +17,7 @@ end of line: `$`
 
 edition
 ===
-cut line: `dd` *(nano: `crtl-k`)*  
+cut line: `dd` *(nano: `crtl-k`)*, cut 5 lines: `5dd`  
 copy line: `yy` 
 paste after: `p`, before: `P` *(nano: `crtl-u`)*    
 delete one character on right *(aka `suppr`)*: `x` or `suppr`  
