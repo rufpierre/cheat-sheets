@@ -17,6 +17,7 @@ new tab: `prefix+c`
 next tab: `prefix+n`  
 previous tab: `prefix+p`  
 rename tab: `prefix+,`  
+kill: `prefix+&`  
 
 misc
 ---
