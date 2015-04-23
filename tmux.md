@@ -1,6 +1,15 @@
 prefix
 ---
-prefix to use before each tmux command: `crtl+b`  
+when inside tmux, use *prefix* before each command.  
+prefix: `crtl+b`  
+
+session
+---
+list: `prefix+s` or `tmux ls`  
+attach: `tmux a -t SESSION_NAME`  
+rename: `prefix $`  
+detach (quit): `prefix+d`  
+kill: `tmux kill-session -t SESSION_NAME`  
 
 tabs
 ---
