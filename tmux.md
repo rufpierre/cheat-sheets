@@ -16,6 +16,7 @@ tabs
 new tab: `prefix+c`  
 next tab: `prefix+n`  
 previous tab: `prefix+p`  
+goto to tab 5: `prefix+5`  
 rename tab: `prefix+,`  
 kill: `prefix+&`  
 
