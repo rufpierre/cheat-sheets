@@ -22,10 +22,11 @@ kill: `prefix+&`
 
 panes
 ---
-split verticaly: `prefix+%`  
+split verticaly: `prefix+%`, horizontaly: `prefix+"`  
 move to next pane: `prefix+o`  
 swap panes: `prefix+crtl+o`  
-equaly balance panes horizontaly: `prefix+b and alt+1`, verticaly: `prefix+b and alt+2`
+equaly balance panes horizontaly: `prefix+alt+1`, verticaly: `prefix+alt+2`  
+kill pane: `prefix+x`
 
 misc
 ---
