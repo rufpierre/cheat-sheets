@@ -25,6 +25,7 @@ panes
 split verticaly: `prefix+%`  
 move to next pane: `prefix+o`  
 swap panes: `prefix+crtl+o`  
+equaly balance panes horizontaly: `prefix+b and alt+1`, verticaly: `prefix+b and alt+2`
 
 misc
 ---
