@@ -44,6 +44,17 @@ tar cf toto.tar toto1 toto2 toto3
 tar xf toto.tar
 ```
 
+ps
+---
+* `x`: prend "graphique" et non "graphique"? (tty)
+* `a`: process de tous les users (et non que de soi)
+* remarque: pas de moins pour les options
+
+ex:
+```
+ps ax
+```
+
 CentOS
 ===
 ```
