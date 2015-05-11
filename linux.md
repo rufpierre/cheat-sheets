@@ -48,7 +48,7 @@ ps
 ---
 * `x`: prend "graphique" et non "graphique"? (tty)
 * `a`: process de tous les users (et non que de soi)
-* remarque: pas de moins pour les options
+* remarque: pas de `-` pour les options
 
 ex:
 ```
