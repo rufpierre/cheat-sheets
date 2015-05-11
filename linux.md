@@ -31,6 +31,18 @@ export M2_HOME=/usr/local/maven
 export PATH=${M2_HOME}/bin:${PATH}
 ```
 
+tar
+---
+* `f`: pour dire qu'on utilise un fichier et non un flux
+* `x/c`: extraire/compresser
+* `z`: pour tar.gzipper
+* `v`: verbose
+
+ex:
+```
+tar cf toto.tar toto1 toto2 toto3
+tar xf toto.tar
+```
 
 CentOS
 ===
