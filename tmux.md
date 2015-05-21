@@ -5,7 +5,8 @@ prefix: `crtl+b`
 
 session
 ---
-list: `prefix+s` or `tmux ls`  
+list: `tmux ls` or `prefix+s`  
+create: `tmux new -s SESSION_NAME`  
 attach: `tmux a -t SESSION_NAME`  
 rename: `prefix $`  
 detach (quit): `prefix+d`  
