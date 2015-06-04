@@ -1,3 +1,10 @@
+entetes standard pour un script pyton
+===
+```
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+```
+
 interragir avec un script existant
 ===
 
