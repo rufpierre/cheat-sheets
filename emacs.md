@@ -18,3 +18,9 @@ cut selection : `C-w`
 
 paste : `C-y`
 
+stop any command : `C-g`
+
+undo : `C-x u`
+
+
+
