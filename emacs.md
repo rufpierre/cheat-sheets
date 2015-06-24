@@ -28,6 +28,8 @@ display buffer list : `C-x C-b`
 
 open buffer : `C-x b`
 
+close current buffer : `C-x k`
+
 Ressources
 ===
 https://github.com/emacs-tw/awesome-emacs
