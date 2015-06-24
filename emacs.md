@@ -18,9 +18,17 @@ cut selection : `C-w`
 
 paste : `C-y`
 
-stop any command : `C-g`
+***stop any command*** : `C-g`
 
 undo : `C-x u`
+
+open file : `C-x C-f`
+
+display buffer list : `C-x C-b`
+
+open buffer : `C-x b`
+
+
 
 
 
