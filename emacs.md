@@ -28,7 +28,9 @@ display buffer list : `C-x C-b`
 
 open buffer : `C-x b`
 
-
+Ressources
+===
+https://github.com/emacs-tw/awesome-emacs
 
 
 
