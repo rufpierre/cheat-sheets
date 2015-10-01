@@ -14,6 +14,7 @@ moves
 down: `j`, up: `k`, left: `j`, right: `l`  
 move one word: `w`, move one word backwards: `b`  
 begining of line: `0`, end of line: `$` 
+end of file: `G`
 
 edition
 ===
